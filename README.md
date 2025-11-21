@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm Varshith Mohan 👋</h1>
 <h3 align="center">A Data Science & AI Enthusiast | BTech ArtificialIntelligence @ MU </h3>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamSavitha&label=Profile%20Views&color=blue&style=flat" alt="IamSavitha" />
+  <img src="https://komarev.com/ghpvc/?username=varshith-mohan&label=Profile%20Views&color=blue&style=flat" alt="varshith-mohan" />
 </p>
+
 
 ---
 
