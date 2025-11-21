@@ -58,34 +58,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&theme=highcontrast&title_color=7DF9FF&text_color=CFCFFF&icon_color=8A2BE2&bg_color=0D1117" height="180" alt="varshith-mohan" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=7DF9FF&text_color=CFCFFF&icon_color=8A2BE2&bg_color=0D1117" height="180" alt="varshith-mohan" />
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&theme=highcontrast&title_color=FF00FF&text_color=E0E0FF&icon_color=00E5FF&bg_color=0A0F1F" height="180" alt="varshith-mohan" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=FF00FF&text_color=E0E0FF&icon_color=00E5FF&bg_color=0A0F1F" height="180" alt="varshith-mohan" />
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&title_color=B19CD9&text_color=E6E6FA&icon_color=00FFFF&bg_color=0E0C1A&theme=dracula" height="180" alt="varshith-mohan" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&title_color=B19CD9&text_color=E6E6FA&icon_color=00FFFF&bg_color=0E0C1A&theme=dracula" height="180" alt="varshith-mohan" />
-</div>
-
-<br>
-
 
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
