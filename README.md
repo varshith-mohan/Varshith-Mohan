@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Varshith Mohan 👋</h1>
-<h3 align="center">A Data Science & AI Enthusiast | BTech ArtificialIntelligence @ MU </h3>
+<h3 align="center">A Data Science & AI Enthusiast | BTech Artificial Intelligence @ MU </h3>
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 🔹 About Me    
-- 💻 Experienced in **Data Analytics, Machine Learning, and Software Engineering**  
+- 💻 Experienced in **Data Analytics, Machine Learning, and Deep Learning**  
 - 🚀 Passionate about **Big Data, AI, Cloud Technologies, and Data Visualization**   
 - 📊 Building projects in **Python, SQL, Power BI, Apache Airflow,Dbt , Snowflake, Spark, and Kafka**  
 - 🔍 Exploring **MLOps, NLP, Large-Scale Data Processing, LLMs and Agentic AI**  
@@ -49,5 +49,11 @@
 ![Apache dbt](https://img.shields.io/badge/Apache%20dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
+
+<br>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=highcontrast&ring=8A2BE2&fire=00FFFF&currStreakLabel=00E5FF&background=0D1117&sideLabels=8A2BE2&dates=00FFFF" alt="varshith-mohan" />
+</p>
+
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
