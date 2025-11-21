@@ -55,5 +55,15 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=highcontrast&ring=8A2BE2&fire=00FFFF&currStreakLabel=00E5FF&background=0D1117&sideLabels=8A2BE2&dates=00FFFF" alt="varshith-mohan" />
 </p>
 
+<br>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=react&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14&sideLabels=00E5FF&dates=39FF14&background=0D1117" alt="varshith-mohan" />
+</p>
+
+<br>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=dracula&ring=6A5ACD&fire=7DF9FF&currStreakLabel=B19CD9&sideLabels=6A5ACD&dates=7DF9FF&background=0E0C1A" alt="varshith-mohan" />
+</p>
+
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
