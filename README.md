@@ -50,10 +50,6 @@
 
 ---
 
-<br>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=highcontrast&ring=8A2BE2&fire=00FFFF&currStreakLabel=00E5FF&background=0D1117&sideLabels=8A2BE2&dates=00FFFF" alt="varshith-mohan" />
-</p>
 
 <br>
 <p align="center">
@@ -61,9 +57,35 @@
 </p>
 
 <br>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=dracula&ring=6A5ACD&fire=7DF9FF&currStreakLabel=B19CD9&sideLabels=6A5ACD&dates=7DF9FF&background=0E0C1A" alt="varshith-mohan" />
-</p>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&theme=highcontrast&title_color=7DF9FF&text_color=CFCFFF&icon_color=8A2BE2&bg_color=0D1117" height="180" alt="varshith-mohan" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=7DF9FF&text_color=CFCFFF&icon_color=8A2BE2&bg_color=0D1117" height="180" alt="varshith-mohan" />
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&theme=highcontrast&title_color=FF00FF&text_color=E0E0FF&icon_color=00E5FF&bg_color=0A0F1F" height="180" alt="varshith-mohan" />
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=FF00FF&text_color=E0E0FF&icon_color=00E5FF&bg_color=0A0F1F" height="180" alt="varshith-mohan" />
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=varshith-mohan&show_icons=true&locale=en&title_color=B19CD9&text_color=E6E6FA&icon_color=00FFFF&bg_color=0E0C1A&theme=dracula" height="180" alt="varshith-mohan" />
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith-mohan&show_icons=true&locale=en&layout=compact&title_color=B19CD9&text_color=E6E6FA&icon_color=00FFFF&bg_color=0E0C1A&theme=dracula" height="180" alt="varshith-mohan" />
+</div>
+
+<br>
+
 
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
