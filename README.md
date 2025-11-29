@@ -54,10 +54,14 @@
 
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith-mohan&theme=react&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14&sideLabels=00E5FF&dates=39FF14&background=0D1117" alt="varshith-mohan" />
+  <img
+    align="center"
+    src="https://streak-stats.demolab.com?user=varshith-mohan&theme=react&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14&sideLabels=00E5FF&dates=39FF14&background=0D1117"
+    alt="GitHub Streak"
+  />
 </p>
-
 <br>
+
 
 
 
